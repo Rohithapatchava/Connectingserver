@@ -1,0 +1,7 @@
+D:\Rohitha\c sharp\Connectingserver\Connectingserver\obj\Debug\Connectingserver.csprojResolveAssemblyReference.cache
+D:\Rohitha\c sharp\Connectingserver\Connectingserver\obj\Debug\Connectingserver.csproj.CoreCompileInputs.cache
+D:\Rohitha\c sharp\Connectingserver\Connectingserver\bin\Debug\Connectingserver.exe.config
+D:\Rohitha\c sharp\Connectingserver\Connectingserver\bin\Debug\Connectingserver.exe
+D:\Rohitha\c sharp\Connectingserver\Connectingserver\bin\Debug\Connectingserver.pdb
+D:\Rohitha\c sharp\Connectingserver\Connectingserver\obj\Debug\Connectingserver.exe
+D:\Rohitha\c sharp\Connectingserver\Connectingserver\obj\Debug\Connectingserver.pdb
